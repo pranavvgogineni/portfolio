@@ -28,9 +28,9 @@ export default function About() {
               See My Past Work
             </a>
           </div>
-          <div className="lg:max-w-lg lg:w-full md:w-1/3 w-4/6 mt-4">
+          {/* <div className="lg:max-w-lg lg:w-full md:w-1/3 w-4/6 mt-4">
             <img className="object-cover object-center rounded w-4/5 h-4/5" alt="hero" src="./coding.svg" />
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
